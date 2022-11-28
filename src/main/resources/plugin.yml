@@ -1,0 +1,17 @@
+name: FFAPro
+version: '${project.version}'
+main: me.devap.ffapro.FFAPro
+api-version: 1.18
+authors: [ Devap ]
+description:
+  A Free For All Plugin Which Is Configurable And Easy To Use, Made By Devap.
+commands:
+  join:
+    description: Lets You Join Free For All.
+  fp:
+    description: Displays a Overview of Information About the Free For All Pro Plugin.
+    aliases:
+      - ffa
+  kit:
+    description: Lets You Choose A Kit, 'beast', 'speed' or 'knocker'.
+

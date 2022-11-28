@@ -1,0 +1,56 @@
+# --- FFAPro Configuration File --- #
+
+# Change the default lobby location.
+ffa-lobby-location:
+  World-name: World
+  X: 1
+  Y: 4
+  Z: 1
+  Yaw: 1
+  Pitch: 1
+
+# To send a join message when a player join the ffa lobby.
+enable-join-message: true
+
+# To change the message send to the player on server join.
+ffa-join-message: "&3Welcome to ffa."
+
+# To enable a sound played when a player joins the ffa lobby.
+enable-sound-on-join: true
+
+# To clean the inventory when a player joins the ffa lobby.
+join-clear-inventory: true
+
+# To disable the player fall damage.
+disable-fall-damage: true
+
+# To disable the player hunger.
+disable-hunger: true
+
+# To disable the weather from changing.
+disable-weather-change: true
+
+# To disable tnt from exploding.
+disable-tnt-explosion: true
+
+# To disable lava damage for players.
+disable-lava-damage: true
+
+# To disable fire damage for players.
+disable-fire-damage: true
+
+# To disable players from moving items in inventory.
+disable-item-move: true
+
+# To disable players from swapping items in their inventory. (Except if they're in game-mode creative, or are op.)
+disable-item-swap: true
+
+# To disable players from picking up items.
+disable-item-pick-up: true
+
+# To disable players from placing blocks.
+disable-block-placing: true
+
+# To disable players from breaking blocks.
+disable-block-breaking: true
+
